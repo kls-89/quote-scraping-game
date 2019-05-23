@@ -12,4 +12,4 @@ The users are then offered the opportunity to play again.
 + **util_functions.py** -- This file stores the functions that scrape the website data, generate the list of quote data, as well as hints to be used during gameplay.
 + **game_logic.py** -- This file stores the logic of the game and the *play again* functionality.
 
-To run the program, download all 3 files and run: ```python3 quote_scraping_game.py```
+To run the program, download this repo and run: ```python3 quote_scraping_game.py```
